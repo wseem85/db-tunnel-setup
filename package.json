@@ -1,9 +1,9 @@
 {
   "name": "mongodb-proxy",
   "version": "1.0.0",
-  "main": "http-mongo-proxy.js",
+  "main": "proxy.js",
   "scripts": {
-    "start": "node http-mongo-proxy.js"
+    "start": "node proxy.js"
   },
   "dependencies": {
     "express": "^4.18.2",
